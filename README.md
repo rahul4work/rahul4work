@@ -7,11 +7,12 @@
 ---
 
 # 💫 About Me:
-Currently a Final Year B.Tech CSE Undergrad<br>
-Full Stack Web Developer & Cloud Architect<br>
-Building Scalable Website & Web Applications<br>
-Passionate about solving challenging problems<br>
-Exploring AI and its applications with machine learning  
+- Currently a Final Year B.Tech CSE Undergrad  
+- Full Stack Web Developer & Cloud Architect  
+- Building Scalable Websites & Web Applications  
+- Passionate about solving challenging problems  
+- Exploring AI and its applications with machine learning
+
 
 ---
 
