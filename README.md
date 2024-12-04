@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 - Currently a Final Year B.Tech CSE Undergrad  
-- Full Stack Web Developer & Cloud Architect  
+- Full Stack Web Developer & Cloud Enthusiast  
 - Building Scalable Websites & Web Applications  
 - Passionate about solving challenging problems  
 - Exploring AI and its applications with machine learning
@@ -21,7 +21,6 @@
   <a href="https://www.linkedin.com/in/rahul-kumar-a55569301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahul Kumar" height="30" width="40" /></a>  
   <a href="https://x.com/hey_rrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rahul Kumar" height="30" width="40" /></a>  
   <a href="https://www.instagram.com/rahul_tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rahul Kumar" height="30" width="40" /></a>  
-  <a href="https://github.com/rahul4work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rahul Kumar" height="30" width="40" /></a>
 </p>
 
 
