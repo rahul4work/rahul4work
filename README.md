@@ -1,7 +1,7 @@
 # 💻 Rahul Kumar | Full-Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&width=600&lines=Turning+ideas+into+reality+with+code;A+Paasionate+Full-stack+Developer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&width=600&lines=Turning+ideas+into+reality+with+code;A+Passionate+Full-stack+Developer" alt="Typing Animation">
 </div>
 
 ## 👨‍💻 About Me
@@ -94,12 +94,6 @@ I'm a passionate full-stack developer specializing in building modern web applic
   </a>
   <a href="https://linkedin.com/in/rahul-kumar-a55569301">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://twitter.com/rahul4work">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://dev.to/rahul4work">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>
 </div>
 
