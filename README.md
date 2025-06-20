@@ -1,7 +1,7 @@
 # 💻 Rahul Kumar | Full-Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&width=600&lines=Turning+ideas+into+reality+with+code;5+years+of+development+experience;Open+source+contributor+%26+tech+writer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&width=600&lines=Turning+ideas+into+reality+with+code;A+Paasionate+Full-stack+Developer" alt="Typing Animation">
 </div>
 
 ## 👨‍💻 About Me
@@ -10,7 +10,7 @@ I'm a passionate full-stack developer specializing in building modern web applic
 
 - 🔭 Currently working on: AI-powered SaaS tools
 - 🌱 Learning: Web3 & Blockchain development
-- 💬 Ask me about: React optimization techniques
+- 💬 Ask me about: React optimization techniques & all about MERN STACK
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
 
 ## 🛠️ Technical Skills
@@ -34,31 +34,23 @@ I'm a passionate full-stack developer specializing in building modern web applic
 
 ## 🚀 Featured Projects
 
-### 1. Scatch - Video Conferencing Platform
-[![Live Demo](https://img.shields.io/badge/%F0%9F%93%B1_Live_Demo-4285F4?style=for-the-badge&logo=google-meet&logoColor=white)](https://scatch-demo.vercel.app)
+### 1. Scatch - E-Commerce for Premium Bags
 [![GitHub](https://img.shields.io/badge/%F0%9F%93%81_Code-181717?style=for-the-badge&logo=github)](https://github.com/rahul4work/scatch)
 
-**Tech Stack:** WebRTC, Socket.io, Node.js, React
+**Tech Stack:** MERN Stack (MongoDB, Express, Node.js, Ejs Template)
 
 **Key Features:**
-- Real-time video/audio conferencing
-- Screen sharing capabilities
-- Chat messaging during calls
-- Meeting recording functionality
-- End-to-end encrypted connections
-
-**Impact:**
-- 500+ active weekly users
-- 85% reduction in connection latency
-- Featured in "Top 10 WebRTC Projects" list
+- Secure JWT authentication (login/signup)
+- Intuitive product browsing interface
+- Interactive shopping cart with real-time updates
+- Responsive design for mobile/desktop
 
 ---
 
-### 2. Uber Clone - Ride Sharing App
-[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%95_Live_Demo-000000?style=for-the-badge&logo=uber)](https://uber-clone-demo.vercel.app)
+### 2. Uber Clone - Ride Booking Platform
 [![GitHub](https://img.shields.io/badge/%F0%9F%93%81_Code-181717?style=for-the-badge&logo=github)](https://github.com/rahul4work/uber-clone)
 
-**Tech Stack:** React Native, Google Maps API, Firebase, Redux
+**Tech Stack:** React.js, Tailwind css, Node.js, Express.js, Redux, Multer, MongoDB, Google Maps API
 
 **Key Features:**
 - Real-time ride tracking
@@ -67,28 +59,20 @@ I'm a passionate full-stack developer specializing in building modern web applic
 - In-app payment integration
 - Ride history and receipts
 
-**Impact:**
-- 90% accurate ETA predictions
-- 40% faster matching than competitors
-- 4.8/5 average user rating
-
 ---
 
 ### 3. Estate - Modern Real Estate Platform
 [![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80_Live_Demo-000000?style=for-the-badge&logo=vercel)](https://estate-demo.vercel.app)
 [![GitHub](https://img.shields.io/badge/%F0%9F%93%81_Code-181717?style=for-the-badge&logo=github)](https://github.com/rahul4work/estate)
 
-**Tech Stack:** React, Next.js, Mapbox, Tailwind CSS
+**Tech Stack:** React, Tailwind CSS
 
 **Key Features:**
-- Interactive property maps
-- Advanced search filters
-- Virtual tour integration
-- Mortgage calculator
+- Property listing and details page
+- Fully responsive design
+- Clean and modern UI/UX
+- Contact Form Integration using Web3Forms
 
-**Impact:**
-- 35% increase in user engagement
-- Featured in 3 tech newsletters
 
 ## 📈 GitHub Stats
 
@@ -101,17 +85,6 @@ I'm a passionate full-stack developer specializing in building modern web applic
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul4work&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="90%">
 </div>
 
-## � GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahul4work&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=-C,-B" width="100%">
-</p>
-
-## 📝 Latest Blog Posts
-
-- [Optimizing React Performance in 2023](https://dev.to/rahul4work/optimizing-react-performance-2023)
-- [Building Accessible Web Applications](https://dev.to/rahul4work/accessible-web-apps)
-- [The Complete Guide to Next.js Authentication](https://dev.to/rahul4work/nextjs-auth-guide)
 
 ## 🤝 Let's Connect
 
