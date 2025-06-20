@@ -7,11 +7,7 @@
 ---
 
 # 💫 About Me:
-- Currently a Final Year B.Tech CSE Undergrad  
-- Full Stack Web Developer & Cloud Enthusiast  
-- Building Scalable Websites & Web Applications  
-- Passionate about solving challenging problems  
-- Exploring AI and its applications with machine learning
+I'm a recent B.Tech CSE(2025) Graduate. I've completed my graduation from Prul University, Vadodara Gujarat. I am a web developer expertise in building scalable websites and web applications.
 
 
 ---
