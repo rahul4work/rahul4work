@@ -1,64 +1,46 @@
-<h1>Hi I'm Rahul Kumar 👋</h1>  
+<!-- Animated Gradient Header with 3D Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Rahul+Kumar;Full-Stack+Dev+🚀;Cloud+%26+AI+Enthusiast+☁️🤖;UI%2FUX+Alchemist+🎨" alt="Typing Animation">
+</h1>
 
-<a href="https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=00A7E1&lines=A+Passionate+FullStack+Web_Developer;Cloud+and+AI/ML+Enthusiast">
-  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=00A7E1&lines=A+Passionate+FullStack+Web_Developer;Cloud+and+AI/ML+Enthusiast" alt="Typing SVG">
-</a>  
+<!-- Rainbow Divider -->
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" alt="rainbow divider">
 
----
-
-# 💫 About Me:
-I'm a recent B.Tech CSE(2025) Graduate. I've completed my graduation from Prul University, Vadodara Gujarat. I am a web developer expertise in building scalable websites and web applications.
-
-
----
-
-### Connect with Me:  
-<p align="left">
-  <a href="https://www.linkedin.com/in/rahul-kumar-a55569301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahul Kumar" height="30" width="40" /></a>  
-  <a href="https://x.com/hey_rrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rahul Kumar" height="30" width="40" /></a>  
-  <a href="https://www.instagram.com/rahul_tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rahul Kumar" height="30" width="40" /></a>  
+<!-- 3D Profile Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul4work&theme=github_dark" width="90%">
 </p>
 
+<!-- Dynamic Glowing Tech Stack -->
+## 🔮 Tech Wizardry
+<div align="center">
+  
+  **Languages**  
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000">
+    <img src="https://img.shields.io/badge/React-Ninja-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/Node.js-Shogun-339933?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-ML%20Pro-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </div>
 
+  **Special Powers**  
+  <div>
+    <img src="https://img.shields.io/badge/UI%2FUX%20Optimization-30%25%20Boost-FF6B6B?style=for-the-badge">
+    <img src="https://img.shields.io/badge/API%20Performance-25%25%20Faster-00C7B7?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Auth%20Security-90%25%20Secure-9C27B0?style=for-the-badge">
+  </div>
+</div>
 
----
+<!-- Interactive Project Showcase -->
+## 🏆 Impact-Driven Projects
 
-## Browse My Tech Stacks! 🗂️
-**Languages:**  
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25" /><br><br>
-
-**Frameworks:**  
-<img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" />
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" height="25" /><br><br>
-
-**Tools:**  
-<img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/-Jupyter-DA5B0D?style=flat-square&logo=jupyter&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/-GenAI-FF4500?style=flat-square&logo=openai&logoColor=white" height="25" />
-
----
-
-## GitHub Statistics  
-| 💻 Most Used Languages and Stats 📈 | 🎯 GitHub Streaks and Trophies 🏆 |  
-|-------------------------------------|-----------------------------------|  
-| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul4work&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/rahul4work) | [![Rahul's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=rahul4work&theme=midnight-purple&hide_border=true)](https://github.com/rahul4work) |  
-| [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul4work&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/rahul4work) | <h1>Visits:</h1> ![Visitor Count](https://profile-counter.glitch.me/rahul4work/count.svg) |  
-
----
-
-## ✍️ Random Dev Quote  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.%20The%20best%20developers%20are%20lifelong%20learners.&author=Chris%20Pine" alt="Dev Quote">
-
-<!---
-rahulkumar/rahulkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+<details>
+<summary><b>🚕 UberClone (Fullstack Taxi System)</b> - <i>Click to expand!</i></summary>
+  
+  ```markdown
+  🔧 Tech: React | Node | JWT | Tailwind
+  ✨ Highlights:
+  - 100% state management with Context API
+  - 90% unauthorized access reduction
+  - 25% faster API responses with Axios
+```
