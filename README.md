@@ -62,7 +62,7 @@ I'm a passionate full-stack developer specializing in building modern web applic
 ---
 
 ### 3. Estate - Modern Real Estate Platform
-[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80_Live_Demo-000000?style=for-the-badge&logo=vercel)](https://estate-demo.vercel.app)
+[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80_Live_Demo-000000?style=for-the-badge&logo=vercel)](https://estate-two-ebon.vercel.app/)
 [![GitHub](https://img.shields.io/badge/%F0%9F%93%81_Code-181717?style=for-the-badge&logo=github)](https://github.com/rahul4work/estate)
 
 **Tech Stack:** React, Tailwind CSS
