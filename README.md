@@ -12,15 +12,9 @@ I'm a passionate full-stack developer specializing in building modern web applic
 - 🌱 Learning: Web3 & Blockchain development
 - 💬 Ask me about: React optimization techniques & all about MERN STACK
 
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<b>💭 Random Quote</b><br>
+<div align="center" style="background-color: #f6f8fa; padding: 15px; border-radius: 8px; margin: 20px 0;">
+<b>🎭 Random Quote</b><br><br>
 <i>"We're creating machines that can write poetry but can't understand why the poem makes us cry."</i>
-</td>
-</tr>
-</table>
 </div>
 
 ## 🛠️ Technical Skills
