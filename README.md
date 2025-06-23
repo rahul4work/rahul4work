@@ -11,7 +11,9 @@ I'm a passionate full-stack developer specializing in building modern web applic
 - 🔭 Currently working on: AI-powered SaaS tools
 - 🌱 Learning: Web3 & Blockchain development
 - 💬 Ask me about: React optimization techniques & all about MERN STACK
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
+
+Random Quote 
+We're creating machines that can write poetry but can't understand why the poem makes us cry.
 
 ## 🛠️ Technical Skills
 
